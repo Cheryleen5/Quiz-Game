@@ -11,7 +11,7 @@ quiz_data = [
     },
     {
         "question": "What is the capital of Odisha?",
-        "choices":  ["Paris", "Australia", "India", "Bhubaneswar"],
+        "choices":  ["Paris", "Australia", "India", "Bhuvaneshwwar"],
         "answer" :  "Bhuvaneshwar"
     },
     {
